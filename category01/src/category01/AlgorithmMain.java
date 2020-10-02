@@ -34,10 +34,11 @@ public class AlgorithmMain {
 		String[] cage = new String[M];
 		// 마릿수만큼 루프
 		for (int i = 0; i < N; i++) {
-			
+			for (int j = 0; j < cage.length; j++) {
+				
+			}
 		}
 		System.out.println();
-
 	}
 
 }
